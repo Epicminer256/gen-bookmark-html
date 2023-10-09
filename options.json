@@ -1,0 +1,5 @@
+{
+    "Test Folder": {"folder": {
+      "Window Overlay Test": {"jsfile": "src/wm.js, src/startwm.js"}
+    }}
+  }
